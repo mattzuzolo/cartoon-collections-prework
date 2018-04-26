@@ -20,12 +20,13 @@ def find_the_cheese (array_strings)
   cheese_types = ["cheddar", "gouda", "camembert"]
   
   
-  array_strings.each do |thing|
-    
-      
+  while array_strings.length > i
+  
+      array_strings.each
+  
+      i += 1
   
   
   
-  array_strings.include?(cheese_types)
   
 end
