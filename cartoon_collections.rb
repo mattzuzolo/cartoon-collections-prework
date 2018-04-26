@@ -1,10 +1,10 @@
-def roll_call_dwarves(arrNames)
-  arrNames.each do |name, index|
+def roll_call_dwarves (arr_names)
+  arr_names.each do |name, index|
     puts "#{index}.#{name}"
   end  
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet (planeteerCalls)
   # Your code here
 end
 
