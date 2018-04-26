@@ -16,6 +16,9 @@ def long_planeteer_calls (array_calls)
   end  
 end
 
+
+#snacks = ["crackers", "gouda", "thyme"]
+
 def find_the_cheese (array_strings)
   cheese_types = ["cheddar", "gouda", "camembert"]
   
