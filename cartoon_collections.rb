@@ -27,9 +27,6 @@ def find_the_cheese (array_strings)
   
   array_strings.find do |thing| 
     cheese_types.include? (thing)
-    end 
   end
-  
-  
   
 end
