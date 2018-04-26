@@ -27,8 +27,9 @@ def find_the_cheese (array_strings)
   
   array_strings.any? do |thing| 
     cheese_types.find do |x| 
-      x.match?
-    end end
+      x.match(thing)
+    end 
+  end
   
   
   
