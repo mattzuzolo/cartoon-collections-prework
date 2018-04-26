@@ -20,11 +20,7 @@ def find_the_cheese (array_strings)
   cheese_types = ["cheddar", "gouda", "camembert"]
   
   
-  while array_strings.length > i
-  
-      array_strings.each
-  
-      i += 1
+  array_strings
   
   
   
